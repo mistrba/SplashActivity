@@ -1,0 +1,2 @@
+# SplashActivity
+SplashActivity Android App
